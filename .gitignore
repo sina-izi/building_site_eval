@@ -1,0 +1,14 @@
+
+### `.gitignore`
+```gitignore
+# Ignore Python compiled files
+__pycache__/
+*.pyc
+
+# Ignore virtual environments
+venv/
+env/
+
+# Ignore any additional files
+.DS_Store
+*.swp
